@@ -5,4 +5,6 @@ Inspired by [History of Everything](https://github.com/2d-inc/HistoryOfEverythin
 
 [List of Events](https://github.com/33nanoseconds/Sapien_Isolation/wiki/List-of-Events)
 
+ETA: January 2021
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=33nanoseconds.Sapien_Isolation)
