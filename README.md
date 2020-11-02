@@ -17,8 +17,11 @@ A flutter timeline app for the events of 2020
  <details>
 
  <summary> 📗 Documentation </summary>
+ 
 [List of Events](https://github.com/33nanoseconds/Sapien_Isolation/wiki/List-of-Events)
+
 [Timeline 01](https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_the_United_States)
+
  </details>
 
  
