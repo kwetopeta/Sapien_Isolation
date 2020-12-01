@@ -22,6 +22,8 @@ A flutter timeline app for the events of 2020
 
 [Timeline 01](https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_the_United_States)
 
+[First Half US](https://www.cnn.com/interactive/2020/07/world/2020-year-in-review-july/)
+
  </details>
 
  
