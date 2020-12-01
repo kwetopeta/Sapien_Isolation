@@ -24,6 +24,8 @@ A flutter timeline app for the events of 2020
 
 [First Half US](https://www.cnn.com/interactive/2020/07/world/2020-year-in-review-july/)
 
+[2020 Events Database](https://www.infoplease.com/2020-current-events)
+
  </details>
 
  
