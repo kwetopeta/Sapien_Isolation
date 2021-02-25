@@ -56,3 +56,44 @@ Nothing yet....
  
 </details>
 
+<!--
+AskgameDev
+
+Gamdev team: Art, Sound and Devs
+
+Game Design document
+
+Break into the industry
+- read up and keep up
+- network
+- make something
+- broadcast yourself
+
+Press Kit
+- Fact sheet
+- faq sheet
+- team bio
+- recent coverage & awards
+- logo artwork
+- video trailer
+- graphics package (fonts, cutouts,)
+-
+What indie video game publishers provide
+- funding
+- development
+- marketing and community
+
+Publisher pitch deck
+- elevator pitch
+- visuals 
+- The ask
+- marketing
+- execution schedule
+- team bios
+- market research
+- playable demo
+
+Wolfram Tones
+
+
+-->
