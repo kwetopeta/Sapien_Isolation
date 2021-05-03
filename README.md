@@ -3,40 +3,6 @@ A flutter timeline app for the events of 2020
 
 <img src="https://github.com/33nanoseconds/Sapien_Isolation/blob/master/Images/X.png" width=300 > <img src="https://github.com/33nanoseconds/Sapien_Isolation/blob/master/Images/Y.png" width=300 > 
 
-<details>
- <summary> Inspired by </summary>
- 
-[History of Everything](https://github.com/2d-inc/HistoryOfEverything) ...
-[Gift of the Nile](https://github.com/Mohanedy98/Gift-of-The-Nile)... & ...
-[Beautiful Timelines](https://github.com/JHBitencourt/beautiful_timelines)
-
-</details>
-
-
-
- <details>
-
- <summary> 📗 Documentation </summary>
- 
-[List of Events](https://github.com/33nanoseconds/Sapien_Isolation/wiki/List-of-Events)
-
-[Timeline 01](https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_the_United_States)
-
-[First Half US](https://www.cnn.com/interactive/2020/07/world/2020-year-in-review-july/)
-
-[2020 Events Database](https://www.infoplease.com/2020-current-events)
-
- </details>
-
- 
-
- <details>
-
- <summary> 📅 Roadmap </summary>
-
-Nothing yet....
-
- </details>
 
 <details>
 <summary>⚡️ Connect with me</summary>
@@ -56,6 +22,42 @@ Nothing yet....
  
 </details>
 
+
+<details><summary>🧠 Q&A</summary>
+ 
+ ![](https://i.redd.it/1ctpb8dor8w61.png)
+
+1. **What is Sapien Isolation?**
+- Its a timeline application that higlights the events of the global pandemic that affected everyone from the year 2019 to who knows when (2022).
+
+2. **What is the point of this app anyway?**
+- I believe its a better way of presenting information that isnt bloated by ads, politics, cynicism, subjectivism or bias. Just a simple interactive timeline that lists facts in an objective manner.
+
+3. **What is the inspiration behind this app?**
+- This app draws upon other awesome timeline application, but mainly these three
+- [History of Everything](https://github.com/2d-inc/HistoryOfEverything) ...
+- [Gift of the Nile](https://github.com/Mohanedy98/Gift-of-The-Nile)... & ...
+- [Beautiful Timelines](https://github.com/JHBitencourt/beautiful_timelines)
+
+4. **What are your sources?**
+- The amount of sources available is insurmountable, but i draw upon common events, regional, local and international events
+- [List of Events](https://github.com/33nanoseconds/Sapien_Isolation/wiki/List-of-Events)
+- [Timeline 01](https://en.wikipedia.org/wiki/Timeline_of_the_COVID-19_pandemic_in_the_United_States)
+- [First Half US](https://www.cnn.com/interactive/2020/07/world/2020-year-in-review-july/)
+- [2020 Events Database](https://www.infoplease.com/2020-current-events)
+
+5. **What is the ETA on this app?**
+- The ETA all depends on the end of Covid-19 itself, but no ones knows when that will happen, not even scientists. Its better to build the application in one go as opposed to updating every single time new events pop up
+
+6. **Who is your target audience for this app?**
+- I wanted to say that this app is for survivors, but that has a negative connotation and sounds very insensitive. The ideal target audience is build for time travelers or the next generation. Sure this shall be recorded in history books, but if you have an interactive way to experience the information thats beats any book.
+
+7. **Are you qualified to do this?**
+- Thats an interesting question because i wonder if thats truly important. You dont have to be a doctor to make an impact in someones life. 
+
+
+
+</details>
 <!--
 AskgameDev
 
