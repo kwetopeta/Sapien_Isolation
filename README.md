@@ -1,5 +1,5 @@
 # Sapien_Isolation
-A flutter timeline app for the events of 2020
+A flutter timeline app for the events that took place from December 2019 to the end of Covid-19?
 
 <img src="https://github.com/33nanoseconds/Sapien_Isolation/blob/master/Images/X.png" width=300 > <img src="https://github.com/33nanoseconds/Sapien_Isolation/blob/master/Images/Y.png" width=300 > 
 
