@@ -1,8 +1,7 @@
 # Sapien_Isolation
 A flutter timeline app for the events that took place from December 2019 to the end of Covid-19?
 
-<img src="https://github.com/33nanoseconds/Sapien_Isolation/blob/master/Images/X.png" width=300 > <img src="https://github.com/33nanoseconds/Sapien_Isolation/blob/master/Images/Y.png" width=300 > 
-
+[Figma Design](https://www.figma.com/file/XxIaxhMw3YC15HjmDiUrDc/Sapien_Isolation)
 
 <details>
 <summary>⚡️ Connect with me</summary>
