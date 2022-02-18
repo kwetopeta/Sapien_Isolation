@@ -3,6 +3,7 @@ A flutter timeline app for the events that took place from December 2019 to the 
 
 [Figma Design](https://www.figma.com/file/XxIaxhMw3YC15HjmDiUrDc/Sapien_Isolation) 🎨  |  [Notion Event List](https://33nano.notion.site/dcc48df3a5b9432ca1c6379f1bb94993?v=5ccc8de04a164232a34e7bcfa7ac5f74) 📊
 
+<img src="Images/Front 01.png" width=400 > 
 <details>
 <summary>⚡️ Connect with me</summary>
   
